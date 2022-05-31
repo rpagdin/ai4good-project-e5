@@ -4,5 +4,5 @@ Team members:
   Katie Sun,
   Monishka Gautam,
   Rachel Pagdin,
-  Sanjana RoyChowdhury,
+  Sanjana Roy Chowdhury,
   TA: Nastaran Gholizadeh 
