@@ -1,0 +1,10 @@
+1*Health services
+2*Social services
+3*Advocacy and Justice
+4*Food and Agriculture
+5*Education
+6*Environment and Climate change
+7*Recreation and Leisure
+8*Technology and Innovation
+9*Outreach and Advertising
+10*Child services
